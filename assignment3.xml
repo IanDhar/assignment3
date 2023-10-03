@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "stylexml.css" ?>
+
+<productList>
+    <product>
+        <name>iPhone 15</name>
+        <description>15th Generation Standard Apple Phone</description>
+        <size>6.1-inch</size>
+        <price>799</price>
+        <categories>
+            <category>Phone</category>
+        </categories>
+    </product>
+    <product>
+        <name>iPhone 15 Plus</name>
+        <description>15th Generation Larger Apple Phone</description>
+        <size>6.7-inch</size>
+        <price>899</price>
+        <categories>
+            <category>Phone</category>
+            <category>Plus</category>
+        </categories>
+    </product>
+    <product>
+        <name>iPhone 15 Pro</name>
+        <description>15th Generation Apple Phone with Upgraded Specs</description>
+        <size>6.1-inch</size>
+        <price>999</price>
+        <categories>
+            <category>Phone</category>
+            <category>Pro</category>
+        </categories>
+    </product>
+    <product>
+        <name>iPhone 15 Pro Max</name>
+        <description>15th Generation Larger Apple Phone with Upgraded Specs</description>
+        <size>6.7-inch</size>
+        <price>1199</price>
+        <categories>
+            <category>Phone</category>
+            <category>Pro</category>
+            <category>Max</category>
+        </categories>
+    </product>
+    <product>
+        <name>Macbook Air</name>
+        <description>New Macbook Air w/M2 Chip</description>
+        <size>15-inch</size>
+        <price>1299</price>
+        <categories>
+            <category>Laptop</category>
+            <category>Air</category>
+        </categories>
+    </product>
+    <product>
+        <name>Mac Studio</name>
+        <description>New Mac Studio w/M2 Max Chip</description>
+        <size>7.7-inch</size>
+        <price>1999</price>
+        <categories>
+            <category>Desktop</category>
+            <category>Studio</category>
+        </categories>
+    </product>
+    <product>
+        <name>Mac Pro</name>
+        <description>New Mac Pro w/M2 Ultra Chip</description>
+        <size>17.7-inch</size>
+        <price>6999</price>
+        <categories>
+            <category>Desktop</category>
+            <category>Pro</category>
+        </categories>
+    </product>
+    <product>
+        <name>iPad Pro</name>
+        <description>New iPad Pro w/M2 Chip</description>
+        <size>12.9-inch</size>
+        <price>1099</price>
+        <categories>
+            <category>Tablet</category>
+            <category>Pro</category>
+        </categories>
+    </product>
+    <product>
+        <name>iPad</name>
+        <description>New 10th Generation iPad</description>
+        <size>10.9-inch</size>
+        <price>449</price>
+        <categories>
+            <category>Tablet</category>
+        </categories>
+    </product>
+</productList>

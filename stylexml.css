@@ -1,0 +1,45 @@
+productList {
+    background-color: #ffffff;
+    width: 100%;
+}
+product, name, description {
+    display: block;
+    color: #000000;
+}
+product {
+    size: 20 px;
+}
+product categories category {list-style-type:disc; list-style-position:
+inside; display:list-item;}
+name, description {
+    size: 12 px;
+}
+price, category, size {
+    display: block;
+    margin-left: 20pt;
+}
+price {
+    color: #ff0202;
+}
+price:before {
+    content: "Price: $";
+}
+category {
+    color: cyan;
+    margin-bottom: 20pt;
+}
+categories:before {
+    content: "Categories: ";
+}
+size {
+    color: bisque;
+}
+size:before {
+    content: "Size: ";
+}
+name:before {
+    content: "Name: ";
+}
+description:before {
+    content: "Description: ";
+}
